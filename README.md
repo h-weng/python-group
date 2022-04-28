@@ -1,2 +1,2 @@
 # python-group
-Materials for Acme Tutors Python group
+Course material for Acme Tutors Python group
